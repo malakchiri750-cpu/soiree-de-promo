@@ -5,3 +5,4 @@ pizza
 gâteau au chocolat
 glaçons
 fraises
+serviettes
