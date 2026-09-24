@@ -1,4 +1,6 @@
-echo "Liste de courses"
-echo "-chips"
-echo "- jus de pommes"
-echo "-pizza"
+Liste de courses
+chips
+jus de pommes
+pizza
+gâteau au chocolat
+glaçons
